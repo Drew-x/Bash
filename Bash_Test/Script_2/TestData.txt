@@ -1,0 +1,16 @@
+Name,Age,Location
+John,25,New York
+Alice,30,Los Angeles
+Michael,22,Chicago
+Emily,28,Houston
+David,35,Miami
+Sophia,27,Seattle
+Daniel,29,Dallas
+Olivia,26,Boston
+William,32,Philadelphia
+Ava,24,Atlanta
+James,31,Denver
+Mia,23,Phoenix
+Ethan,33,San Francisco
+Emma,29,Washington, D.C.
+Liam,27,Austin
